@@ -24,7 +24,8 @@ module Twemoji
 
   # Emoji Text to Codepoint mapping constant. This hash is frozen.
   # @private
-  CODES =  {
+  CODES = {
+
       ":mahjong:"=>"1f004",
       ":black_joker:"=>"1f0cf",
       ":a_negative:"=>"1f170",
@@ -2711,9 +2712,7 @@ module Twemoji
       ":regional_indicator_c:"=>"1f1e8",
       ":regional_indicator_b:"=>"1f1e7",
       ":regional_indicator_a:"=>"1f1e6",
-      ":raised_hand:"=>"270b",
-      ":100k:"=>"100k",
-      ":diamond:"=>"diamond",
-      ":ltd:"=>"ltd"}.freeze
+      ":raised_hand:"=>"270b"
+      }.freeze
   private_constant :CODES
 end
