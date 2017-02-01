@@ -685,7 +685,7 @@ module Twemoji
     ":pig_nose:"=>"1f43d",
     ":feet:"=>"1f43e",
     ":chipmunk:"=>"1f43f",
-    ":eyes:"=>"eyes",
+    ":eyes:"=>"1f440",
     ":eye:"=>"1f441",
     ":eye-left_speech_bubble:"=>"1f441-200d-1f5e8",
     ":ear-skin-tone-2:"=>"1f442-1f3fb",
