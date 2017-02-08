@@ -551,7 +551,7 @@ module Twemoji
     ":surfer-skin-tone-6:"=>"1f3c4-1f3ff",
     ":surfer:"=>"1f3c4",
     ":sports_medal:"=>"1f3c5",
-    ":trophy:"=>"1f3c6",
+    ":default-trophy:"=>"1f3c6",
     ":horse_racing-skin-tone-2:"=>"1f3c7-1f3fb",
     ":horse_racing-skin-tone-3:"=>"1f3c7-1f3fc",
     ":horse_racing-skin-tone-4:"=>"1f3c7-1f3fd",
